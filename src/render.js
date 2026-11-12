@@ -69,7 +69,6 @@ export function render() {
 
   $('#final-name').textContent = profile.name;
   $('#final-title').textContent = profile.title;
-  $('#final-line').textContent = profile.finalLine;
   $('#contacts').innerHTML = contactsHTML();
 }
 

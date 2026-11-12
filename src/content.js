@@ -4,7 +4,7 @@ export const profile = {
   nameAr: 'مبارك المالكي',
   title: 'IT Support & Network Systems',
   tagline: 'أي عطل… له حل.',
-  finalLine: 'عندك عطل؟ تواصل معي.',
+  finalLine: '',
   contacts: {
     email: 'mubarak_almalki@outlook.com',
     whatsapp: 'https://wa.me/966580231353',
